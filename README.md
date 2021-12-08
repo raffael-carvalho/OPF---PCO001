@@ -8,11 +8,17 @@ As bases de dados propostas pelo trabalho já estão incluídas no diretório da
 Para reproduzir o experimento:
 
 1 - compilar o arquivo main.c
+
 2 - Executar o programa compilado.
+
 3 - Durante a execução escolha o dataset:
+
 Digite 1 para Banana dataset;
+
 Digite 2 para Iris dataset;
+
 Digite 3 para Diabetic Retinopathy Debrecen dataset.
+
 4 - Os resultados são impressos na tela.
 
 
